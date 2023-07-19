@@ -2,7 +2,7 @@ app-marvel-react
 
 Marvel App
 
-(marvescreenshotpage.jpeg)
+![Marvelpage](marvescreenshotpage.jpeg)
 
 
 
