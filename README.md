@@ -2,7 +2,7 @@ app-marvel-react
 
 Marvel App
 
-![Marvelpage](./marvescreenshotpage.jpeg)
+![Marvelpage](/marvescreenshotpage.jpeg)
 
 
 
@@ -14,7 +14,7 @@ App es una aplicación web que te permite buscar y explorar personajes de Marvel
 
 Instalación Clona este repositorio en tu máquina local: 
 
-bash Copy code git clone https://github.com/tu-usuario/marvel-app.git Save to grepper Entra al directorio del proyecto: bash Copy code cd marvel-app Save to grepper
+ Entra al directorio del proyecto: bash Copy code cd marvel-app 
 
 Instala las dependencias: 
 
