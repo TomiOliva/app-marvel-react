@@ -36,7 +36,9 @@ javascript Copy code const apiKey = "TU_CLAVE_DE_API"; const privateKey = "TU_CL
 
 Uso Para ejecutar la aplicación en modo de desarrollo, utiliza el siguiente comando:
 
-Copy code npm start Save to grepper Esto iniciará la aplicación en el navegador en http://localhost:3000.
+######npm start 
+
+Esto iniciará la aplicación en el navegador en http://localhost:3000.
 
 ## Características 
 
@@ -46,9 +48,9 @@ Interfaz de usuario amigable y atractiva.
  
  
 ## Tecnologías utilizadas 
-React 
-React Router 
-Axios 
+#####React 
+#####React Router 
+#####Axios 
 
 #### Contribución 
 Si deseas contribuir a este proyecto, ¡eres bienvenido! Puedes abrir un pull request con tus mejoras o correcciones.
