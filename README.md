@@ -3,7 +3,7 @@ ________________________________________________________________________________
 
 ## Demo
 
-![Marvelpage](marvelscreenshotpage.jpeg)
+![Marvelpage](demo-gif.gif)
 
 
 
