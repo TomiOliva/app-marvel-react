@@ -1,24 +1,34 @@
-app-marvel-react
+# Marvel-App-Leniolabs
+____________________________________________________________________________________________________________________________________________________
 
-Marvel App
+## Demo
 
 ![Marvelpage](marvelscreenshotpage.jpeg)
 
 
 
-Descripción Marvel 
+
+
+
+## Deploy Vercel
+![Marval-page](https://app-marvel-react-leniolabs.vercel.app/)
+
+
+
+## Descripción Marvel 
 
 App es una aplicación web que te permite buscar y explorar personajes de Marvel utilizando la API pública de Marvel. Puedes buscar personajes por nombre y ver sus detalles, incluyendo su imagen, descripción y más información relevante.
 
 
 
-Instalación Clona este repositorio en tu máquina local: 
+## Instalación Clona este repositorio en tu máquina local: 
 
- Entra al directorio del proyecto: bash Copy code cd marvel-app 
+-Entra al directorio del proyecto: bash Copy code cd marvel-app 
 
-Instala las dependencias: 
 
-Configuración de la API de Marvel 
+## Instala las dependencias: 
+
+## Configuración de la API de Marvel 
 La aplicación utiliza la API pública de Marvel para obtener información de los personajes. Para utilizar la API, necesitarás obtener una clave de API pública y privada de Marvel.
 
 Ve al sitio web de Marvel Developer y crea una cuenta o inicia sesión si ya tienes una.
@@ -35,23 +45,20 @@ Uso Para ejecutar la aplicación en modo de desarrollo, utiliza el siguiente com
 
 Copy code npm start Save to grepper Esto iniciará la aplicación en el navegador en http://localhost:3000.
 
-Características 
+## Características 
 
 Búsqueda de personajes por nombre. 
 Visualización de detalles de personajes, incluyendo imagen y descripción.
- Interfaz de usuario amigable y atractiva. 
+Interfaz de usuario amigable y atractiva. 
  
  
-Tecnologías utilizadas 
+## Tecnologías utilizadas 
 React 
 React Router 
 Axios 
 
-Contribución 
-
+#### Contribución 
 Si deseas contribuir a este proyecto, ¡eres bienvenido! Puedes abrir un pull request con tus mejoras o correcciones.
-
-Licencia Este proyecto está bajo la Licencia MIT. Consulta el archivo LICENSE para más detalles.
 
 Contacto 
 tomasoliva011@gmail.com
