@@ -15,20 +15,13 @@ ________________________________________________________________________________
 
 
 
-## Descripción Marvel 
+## Descripción-App
 
 App es una aplicación web que te permite buscar y explorar personajes de Marvel utilizando la API pública de Marvel. Puedes buscar personajes por nombre y ver sus detalles, incluyendo su imagen, descripción y más información relevante.
 
-
-
-## Instalación Clona este repositorio en tu máquina local: 
-
--Entra al directorio del proyecto: bash Copy code cd marvel-app 
-
-
 ## Instala las dependencias: 
 
-## Configuración de la API de Marvel 
+###  Configuración de la API de Marvel 
 La aplicación utiliza la API pública de Marvel para obtener información de los personajes. Para utilizar la API, necesitarás obtener una clave de API pública y privada de Marvel.
 
 Ve al sitio web de Marvel Developer y crea una cuenta o inicia sesión si ya tienes una.
