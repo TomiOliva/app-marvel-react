@@ -22,21 +22,19 @@ Marvel-app es una aplicación que te permite buscar y explorar personajes de Mar
 ## Instala las dependencias: 
 
 ###  Configuración de la API de Marvel 
-La aplicación utiliza la API pública de Marvel para obtener información de los personajes. Para utilizar la API, necesitarás obtener una clave de API pública y privada de Marvel.
+-La aplicación utiliza la API pública de Marvel para obtener información de los personajes. Para utilizar la API, necesitarás obtener una clave de API pública y privada de Marvel.
 
-Ve al sitio web de Marvel Developer y crea una cuenta o inicia sesión si ya tienes una.
+-Ve al sitio web de Marvel Developer y crea una cuenta o inicia sesión si ya tienes una.
 
-Después de iniciar sesión, accede a "My Developer Account" y luego a "Get A Key".
+-Después de iniciar sesión, accede a "My Developer Account" y luego a "Get A Key".
 
-Sigue las instrucciones para obtener tu clave de API pública y privada.
+-Sigue las instrucciones para obtener tu clave de API pública y privada.
 
-En el archivo src/Components/Main.js, busca la variable apiKey y reemplaza "TU_CLAVE_DE_API" y "TU_CLAVE_PRIVADA" con tus claves de API obtenidas de Marvel.
+-En el archivo src/Components/Main.js, busca la variable apiKey y reemplaza "TU_CLAVE_DE_API" y "TU_CLAVE_PRIVADA" con tus claves de API obtenidas de Marvel.
 
-javascript Copy code const apiKey = "TU_CLAVE_DE_API"; const privateKey = "TU_CLAVE_PRIVADA";
+-Uso Para ejecutar la aplicación en modo de desarrollo, utiliza el siguiente comando:
 
-Uso Para ejecutar la aplicación en modo de desarrollo, utiliza el siguiente comando:
-
-######npm start 
+#### npm start 
 
 Esto iniciará la aplicación en el navegador en http://localhost:3000.
 
