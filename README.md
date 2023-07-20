@@ -15,9 +15,9 @@ ________________________________________________________________________________
 
 
 
-## Descripción-App
+## Descripción
 
-App es una aplicación web que te permite buscar y explorar personajes de Marvel utilizando la API pública de Marvel. Puedes buscar personajes por nombre y ver sus detalles, incluyendo su imagen, descripción y más información relevante.
+Marvel-app es una aplicación que te permite buscar y explorar personajes de Marvel utilizando la API pública de Marvel. Puedes buscar personajes por nombre y ver sus detalles, incluyendo su imagen, descripción y más información relevante.
 
 ## Instala las dependencias: 
 
