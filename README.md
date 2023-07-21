@@ -50,8 +50,6 @@ Interfaz de usuario amigable y atractiva.
 ##### React Router 
 ##### Axios 
 
-#### Contribución 
-Si deseas contribuir a este proyecto, ¡eres bienvenido! Puedes abrir un pull request con tus mejoras o correcciones.
 
 Contacto 
 tomasoliva011@gmail.com
